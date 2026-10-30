@@ -1,0 +1,14 @@
+{
+  "appclips": {
+    "apps": ["KAAXG79567.com.christoph.BPORevenueWatch.Clip"]
+  },
+  "applinks": {
+    "details": [{
+      "appIDs": ["KAAXG79567.com.christoph.BPORevenueWatch"],
+      "components": [
+        {"/": "/bpo-revenue-watch/clip"},
+        {"/": "/bpo-revenue-watch/clip/"}
+      ]
+    }]
+  }
+}
