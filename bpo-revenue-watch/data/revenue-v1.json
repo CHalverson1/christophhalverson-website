@@ -1,0 +1,1032 @@
+{
+  "edition": "2026-11-05",
+  "companies": [
+    {
+      "ticker": "ACN",
+      "name": "Accenture",
+      "investorURL": "https://investor.accenture.com/",
+      "scope": "Consolidated Accenture revenue, including consulting and managed services",
+      "reports": [
+        {
+          "periodEnd": "2025-08-31",
+          "reportedValue": 17596260000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investor.accenture.com/~/media/Files/A/accenture-v4/investors/earnings-reports/2026/accentures-fourth-quarter-fiscal-2026-earnings-release.pdf",
+          "note": "Prior-year comparative; Q4 FY2026 release page 10",
+          "valueUSD": 17596260000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-11-30",
+          "reportedValue": 18742125000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investor.accenture.com/~/media/Files/A/accenture-v4/investors/earnings-reports/2026/accentures-second-quarter-fiscal-2026-earnings-press-release.pdf",
+          "note": "Derived: six-month revenue 36,786,191,000 less fiscal Q2 revenue 18,044,066,000 USD; page 8",
+          "valueUSD": 18742125000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-02-28",
+          "reportedValue": 18044066000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investor.accenture.com/~/media/Files/A/accenture-v4/investors/earnings-reports/2026/accentures-second-quarter-fiscal-2026-earnings-press-release.pdf",
+          "note": "Consolidated income statement page 8",
+          "valueUSD": 18044066000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-05-31",
+          "reportedValue": 18718144000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investor.accenture.com/~/media/Files/A/accenture-v4/investors/earnings-reports/2026/accentures-fourth-quarter-fiscal-2026-earnings-release.pdf",
+          "note": "Derived: FY2026 revenue 74,183,445,000 less Q4 18,679,110,000 and H1 36,786,191,000 USD; H1 from Q2 FY2026 release page 8",
+          "valueUSD": 18718144000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-08-31",
+          "reportedValue": 18679110000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investor.accenture.com/~/media/Files/A/accenture-v4/investors/earnings-reports/2026/accentures-fourth-quarter-fiscal-2026-earnings-release.pdf",
+          "note": "Consolidated income statement page 10",
+          "valueUSD": 18679110000,
+          "usdMethod": "Company-reported USD"
+        }
+      ]
+    },
+    {
+      "ticker": "CNDT",
+      "name": "Conduent",
+      "investorURL": "https://investor.conduent.com/",
+      "scope": "Continuing operations, excluding discontinued Transportation businesses on a consistent basis",
+      "reports": [
+        {
+          "periodEnd": "2025-06-30",
+          "reportedValue": 603000000.0,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investor.conduent.com/static-files/942d5f70-0e68-4464-8159-7ba62c4c59e3",
+          "note": "GAAP revenue, Q2 2026 presentation page 18; all comparative periods restated for discontinued Transportation operations",
+          "valueUSD": 603000000.0,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 605000000.0,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investor.conduent.com/static-files/942d5f70-0e68-4464-8159-7ba62c4c59e3",
+          "note": "GAAP revenue, Q2 2026 presentation page 18; all comparative periods restated for discontinued Transportation operations",
+          "valueUSD": 605000000.0,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 607000000.0,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investor.conduent.com/static-files/942d5f70-0e68-4464-8159-7ba62c4c59e3",
+          "note": "GAAP revenue, Q2 2026 presentation page 18; all comparative periods restated for discontinued Transportation operations",
+          "valueUSD": 607000000.0,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 587000000.0,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investor.conduent.com/static-files/942d5f70-0e68-4464-8159-7ba62c4c59e3",
+          "note": "GAAP revenue, Q2 2026 presentation page 18; all comparative periods restated for discontinued Transportation operations",
+          "valueUSD": 587000000.0,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 531000000.0,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investor.conduent.com/static-files/942d5f70-0e68-4464-8159-7ba62c4c59e3",
+          "note": "GAAP revenue, Q2 2026 presentation page 18; all comparative periods restated for discontinued Transportation operations",
+          "valueUSD": 531000000.0,
+          "usdMethod": "Company-reported USD"
+        }
+      ]
+    },
+    {
+      "ticker": "CNXC",
+      "name": "Concentrix",
+      "investorURL": "https://ir.concentrix.com/overview/default.aspx",
+      "scope": "Consolidated company revenue",
+      "reports": [
+        {
+          "periodEnd": "2025-08-31",
+          "reportedValue": 2483253000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.concentrix.com/news/news-details/2026/Concentrix-Reports-Third-Quarter-2026-Results/default.aspx",
+          "note": "Prior-year comparative in Q3 2026 report",
+          "valueUSD": 2483253000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-11-30",
+          "reportedValue": 2552925000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.concentrix.com/news/news-details/2026/Concentrix-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 2552925000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-02-28",
+          "reportedValue": 2500391000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.concentrix.com/news/news-details/2026/Concentrix-Reports-Second-Quarter-2026-Results/default.aspx",
+          "note": "Derived: six-month revenue 4,962,864,000 less Q2 revenue 2,462,473,000 USD",
+          "valueUSD": 2500391000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-05-31",
+          "reportedValue": 2462473000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.concentrix.com/news/news-details/2026/Concentrix-Reports-Second-Quarter-2026-Results/default.aspx",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 2462473000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-08-31",
+          "reportedValue": 2453679000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.concentrix.com/news/news-details/2026/Concentrix-Reports-Third-Quarter-2026-Results/default.aspx",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 2453679000,
+          "usdMethod": "Company-reported USD"
+        }
+      ]
+    },
+    {
+      "ticker": "CTSH",
+      "name": "Cognizant",
+      "investorURL": "https://investors.cognizant.com/home/default.aspx",
+      "scope": "Consolidated company revenue",
+      "reports": [
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 5415000000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://news.cognizant.com/2026-10-29-Cognizant-Reports-Third-Quarter-2026-Results",
+          "note": "Prior-year comparative in Q3 2026 report; statement in USD millions",
+          "valueUSD": 5415000000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 5333000000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://news.cognizant.com/2026-02-04-Cognizant-Reports-Fourth-Quarter-and-Full-Year-2025-Results",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 5333000000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 5413000000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.cognizant.com/news-and-events/news/news-details/2026/Cognizant-Reports-Second-Quarter-2026-Results/default.aspx",
+          "note": "Derived: six-month revenue 10,894 million less Q2 revenue 5,481 million USD",
+          "valueUSD": 5413000000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 5481000000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.cognizant.com/news-and-events/news/news-details/2026/Cognizant-Reports-Second-Quarter-2026-Results/default.aspx",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 5481000000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 5664000000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://news.cognizant.com/2026-10-29-Cognizant-Reports-Third-Quarter-2026-Results",
+          "note": "Q3 2026 consolidated revenue; October 29 release, statement in USD millions",
+          "valueUSD": 5664000000,
+          "usdMethod": "Company-reported USD"
+        }
+      ]
+    },
+    {
+      "ticker": "ECLERX",
+      "name": "eClerx",
+      "investorURL": "https://eclerx.com/investor-relations/",
+      "scope": "Consolidated operating revenue, excluding other income",
+      "reports": [
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 10049000000.0,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://eclerx.com/wp-content/uploads/2026/01/Quarterly-Investor-Presentation-1.pdf",
+          "note": "Company-published operating revenue and USD equivalent; rounded to USD 0.1 million",
+          "valueUSD": 115500000.0,
+          "usdMethod": "Company-published USD equivalent"
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 10703000000.0,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://eclerx.com/wp-content/uploads/2026/01/Quarterly-Investor-Presentation-1.pdf",
+          "note": "Company-published operating revenue and USD equivalent; rounded to USD 0.1 million",
+          "valueUSD": 121700000.0,
+          "usdMethod": "Company-published USD equivalent"
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 11073000000.0,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://eclerx.com/wp-content/uploads/2026/08/Quarterly-Investor-Presentation.pdf",
+          "note": "Company-published operating revenue and USD equivalent; rounded to USD 0.1 million",
+          "valueUSD": 122400000.0,
+          "usdMethod": "Company-published USD equivalent"
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 11524000000.0,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://eclerx.com/wp-content/uploads/2026/08/Quarterly-Investor-Presentation.pdf",
+          "note": "Company-published operating revenue and USD equivalent; rounded to USD 0.1 million",
+          "valueUSD": 125900000.0,
+          "usdMethod": "Company-published USD equivalent"
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 11887000000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://eclerx.com/wp-content/uploads/2026/10/Press-Release.pdf",
+          "note": "Q2 FY27 operating revenue, excluding other income; October 28 release, INR 1,188.7 crore and USD 127.7 million, both rounded by company",
+          "valueUSD": 127700000,
+          "usdMethod": "Company-published USD equivalent"
+        }
+      ]
+    },
+    {
+      "ticker": "EXLS",
+      "name": "EXL Service",
+      "investorURL": "https://ir.exlservice.com/",
+      "scope": "Consolidated company revenue",
+      "reports": [
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 529585000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.exlservice.com/news-releases/news-release-details/exl-reports-2026-third-quarter-results",
+          "note": "Prior-year comparative in Q3 2026 report; statement in USD thousands",
+          "valueUSD": 529585000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 542615000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.exlservice.com/news-releases/news-release-details/exl-reports-2025-fourth-quarter-and-year-end-results-issues-2026",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 542615000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 570351000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.exlservice.com/node/23781",
+          "note": "Derived: six-month revenue 1,165,114,000 less Q2 revenue 594,763,000 USD",
+          "valueUSD": 570351000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 594763000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.exlservice.com/node/23781",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 594763000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 633959000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.exlservice.com/news-releases/news-release-details/exl-reports-2026-third-quarter-results",
+          "note": "Q3 2026 consolidated net revenue; October 27 release, statement in USD thousands",
+          "valueUSD": 633959000,
+          "usdMethod": "Company-reported USD"
+        }
+      ]
+    },
+    {
+      "ticker": "FSL",
+      "name": "Firstsource Solutions",
+      "investorURL": "https://www.firstsource.com/investor-relations/financial-information",
+      "scope": "Consolidated company revenue",
+      "reports": [
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 23122000000.0,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://www.firstsource.com/newsroom/press-releases/firstsource-solutions-reports-second-quarter-fiscal-2026-results",
+          "note": "Company-published USD equivalent, rounded to USD 1 million",
+          "valueUSD": 265000000.0,
+          "usdMethod": "Company-published USD equivalent"
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 24431000000.0,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://www.firstsource.com/newsroom/press-releases/firstsource-solutions-reports-third-quarter-fiscal-2026-results",
+          "note": "Company-published USD equivalent, rounded to USD 1 million",
+          "valueUSD": 274000000.0,
+          "usdMethod": "Company-published USD equivalent"
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 25835000000.0,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://www.firstsource.com/newsroom/press-releases/firstsource-solutions-reports-fourth-quarter-and-fiscal-2026-results",
+          "note": "Company-published USD equivalent, rounded to USD 1 million",
+          "valueUSD": 283000000.0,
+          "usdMethod": "Company-published USD equivalent"
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 27249000000.0,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://www.firstsource.com/newsroom/press-releases/q1-fy27-results",
+          "note": "Company-published USD equivalent, rounded to USD 1 million",
+          "valueUSD": 288000000.0,
+          "usdMethod": "Company-published USD equivalent"
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 28256000000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://www.firstsource.com/newsroom/press-releases/q2fy27results",
+          "note": "Q2 FY27 consolidated quarterly revenue; October 29 release, INR 28,256 million and company-published USD 296 million, rounded to USD 1 million; excludes half-year totals",
+          "valueUSD": 296000000,
+          "usdMethod": "Company-published USD equivalent"
+        }
+      ]
+    },
+    {
+      "ticker": "G",
+      "name": "Genpact",
+      "investorURL": "https://media.genpact.com/news-releases",
+      "scope": "Consolidated company revenue",
+      "reports": [
+        {
+          "periodEnd": "2025-06-30",
+          "reportedValue": 1254418000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://media.genpact.com/2026-08-06-Genpact-Reports-Second-Quarter-2026-Results",
+          "note": "Prior-year comparative in Q2 2026 report",
+          "valueUSD": 1254418000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 1291257000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://media.genpact.com/2025-11-06-Genpact-Reports-Third-Quarter-2025-Results",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 1291257000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 1319278000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://media.genpact.com/2026-02-05-Genpact-Reports-Fourth-Quarter-and-Full-Year-2025-Results",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 1319278000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 1296072000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://media.genpact.com/2026-08-06-Genpact-Reports-Second-Quarter-2026-Results",
+          "note": "Derived: six-month revenue 2,639,510,000 less Q2 revenue 1,343,438,000 USD",
+          "valueUSD": 1296072000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 1343438000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://media.genpact.com/2026-08-06-Genpact-Reports-Second-Quarter-2026-Results",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 1343438000,
+          "usdMethod": "Company-reported USD"
+        }
+      ]
+    },
+    {
+      "ticker": "HGS",
+      "name": "Hinduja Global Solutions",
+      "investorURL": "https://hgs.com/investors/",
+      "scope": "Consolidated continuing operating revenue, including BPM and Digital Media; excludes other income",
+      "reports": [
+        {
+          "periodEnd": "2025-06-30",
+          "reportedValue": 10562300000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://hgs.com/wp-content/uploads/2026/03/HGSLOUTCOMEBM-s.pdf",
+          "note": "Derived: nine-month revenue 3,222.69 less Q3 1,075.42 and Q2 1,091.04 crore INR; consolidated results page 10",
+          "valueUSD": 123404710.62,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "INR",
+            "quote": "USD",
+            "start": "2025-04-01",
+            "end": "2025-06-30",
+            "observations": 62,
+            "averageRate": 0.011683507438982468,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 10910400000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://hgs.com/wp-content/uploads/2026/03/HGSLOUTCOMEBM-s.pdf",
+          "note": "Consolidated results page 10; prior-quarter comparative, INR crore",
+          "valueUSD": 124962967.45,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "INR",
+            "quote": "USD",
+            "start": "2025-07-01",
+            "end": "2025-09-30",
+            "observations": 66,
+            "averageRate": 0.01145356425509458,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 10754200000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://hgs.com/wp-content/uploads/2026/03/HGSLOUTCOMEBM-s.pdf",
+          "note": "Consolidated results page 10; INR crore",
+          "valueUSD": 120732204.39,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "INR",
+            "quote": "USD",
+            "start": "2025-10-01",
+            "end": "2025-12-31",
+            "observations": 64,
+            "averageRate": 0.011226516560210493,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 10847000000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://hgs.com/wp-content/uploads/2026/05/HGS-Q4-Full-year-FY2026-Earnings-press-release_final.pdf",
+          "note": "Consolidated operating revenue; rounded to INR 0.1 crore",
+          "valueUSD": 118515972.96,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "INR",
+            "quote": "USD",
+            "start": "2026-01-01",
+            "end": "2026-03-31",
+            "observations": 63,
+            "averageRate": 0.01092615220441036,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 10504000000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://hgs.com/reports/2026/08/HGS-Q1-FY2027-Earnings-Press-Release.pdf",
+          "note": "Consolidated operating revenue; rounded to INR 0.1 crore",
+          "valueUSD": 110958446.34,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "INR",
+            "quote": "USD",
+            "start": "2026-04-01",
+            "end": "2026-06-30",
+            "observations": 62,
+            "averageRate": 0.010563446909497313,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        }
+      ]
+    },
+    {
+      "ticker": "IBEX",
+      "name": "IBEX",
+      "investorURL": "https://investors.ibex.co/financial-information/quarterly-results/",
+      "scope": "Consolidated company revenue",
+      "reports": [
+        {
+          "periodEnd": "2025-06-30",
+          "reportedValue": 147138000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ibex.co/news-releases/news-release-details/ibex-reports-record-fiscal-year-2026-financial-results",
+          "note": "Prior-year comparative in fiscal Q4 2026 report",
+          "valueUSD": 147138000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 151179000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ibex.co/news-releases/news-release-details/ibex-reports-record-quarterly-revenue-and-eps-raises-fiscal-year",
+          "note": "Derived: six-month revenue 315,400,000 less fiscal Q2 revenue 164,221,000 USD",
+          "valueUSD": 151179000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 164221000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ibex.co/news-releases/news-release-details/ibex-reports-record-quarterly-revenue-and-eps-raises-fiscal-year",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 164221000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 164407000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ibex.co/news-releases/news-release-details/ibex-reports-record-quarterly-revenue-and-eps-raises-fiscal-0",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 164407000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 164269000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ibex.co/news-releases/news-release-details/ibex-reports-record-fiscal-year-2026-financial-results",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 164269000,
+          "usdMethod": "Company-reported USD"
+        }
+      ]
+    },
+    {
+      "ticker": "ONEPOINT",
+      "name": "1Point1 Solutions",
+      "investorURL": "https://www.1point1.com/investor",
+      "scope": "Consolidated operating revenue; June 2026 includes Netcom acquisition",
+      "reports": [
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 709000000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://www.1point1.com/media-center/1point1-solutions-reports-strong-financial-performance-in-q3-fy26-17-7-increasee",
+          "note": "Company press release prior-quarter comparative; rounded to INR 0.1 crore",
+          "valueUSD": 8120577.06,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "INR",
+            "quote": "USD",
+            "start": "2025-07-01",
+            "end": "2025-09-30",
+            "observations": 66,
+            "averageRate": 0.01145356425509458,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 773000000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://www.1point1.com/media-center/1point1-solutions-reports-strong-financial-performance-in-q3-fy26-17-7-increasee",
+          "note": "Company press release; rounded to INR 0.1 crore",
+          "valueUSD": 8678097.3,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "INR",
+            "quote": "USD",
+            "start": "2025-10-01",
+            "end": "2025-12-31",
+            "observations": 64,
+            "averageRate": 0.011226516560210493,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 962044000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://1point1-assets.b-cdn.net/QUARTER%20ONE%202026-27.pdf",
+          "note": "Prior-quarter comparative; consolidated results page 7. Source units: lakh (100,000 INR)",
+          "valueUSD": 10511439.17,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "INR",
+            "quote": "USD",
+            "start": "2026-01-01",
+            "end": "2026-03-31",
+            "observations": 63,
+            "averageRate": 0.01092615220441036,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 1583241000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://1point1-assets.b-cdn.net/QUARTER%20ONE%202026-27.pdf",
+          "note": "Consolidated results page 7. Source units: lakh (100,000 INR)",
+          "valueUSD": 16724482.25,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "INR",
+            "quote": "USD",
+            "start": "2026-04-01",
+            "end": "2026-06-30",
+            "observations": 62,
+            "averageRate": 0.010563446909497313,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 1749600000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://www.1point1.com/media-center/1point1-q2-fy27-financial-results-revenue-growth",
+          "note": "Consolidated Q2 FY2027 revenue from operations, released November 3, 2026: INR 174.96 crore. Rounded as published; includes acquired operations.",
+          "valueUSD": 18303768.92,
+          "usdMethod": "Converted from INR using the arithmetic mean of daily ECB USD/INR cross-rates for the reported quarter. USD growth includes exchange-rate movements.",
+          "fx": {
+            "base": "INR",
+            "start": "2026-07-01",
+            "end": "2026-09-30",
+            "observations": 66,
+            "averageRate": 0.010461687769445569
+          }
+        }
+      ]
+    },
+    {
+      "ticker": "SAGILITY",
+      "name": "Sagility",
+      "investorURL": "https://sagility.com/investor-relations/quarterly-results/",
+      "scope": "Consolidated company revenue",
+      "reports": [
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 189400000.0,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://sagility.com/wp-content/uploads/2026/10/sagility-ir-intimation-investor-presentation-signed-q2-2026.pdf",
+          "note": "Company-published USD revenue, including seasonal revenue; October 22, 2026 presentation page 13, rounded to USD 0.1 million",
+          "valueUSD": 189400000.0,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 222000000.0,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://sagility.com/wp-content/uploads/2026/10/sagility-ir-intimation-investor-presentation-signed-q2-2026.pdf",
+          "note": "Company-published USD revenue, including seasonal revenue; October 22, 2026 presentation page 13, rounded to USD 0.1 million",
+          "valueUSD": 222000000.0,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 222100000.0,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://sagility.com/wp-content/uploads/2026/10/sagility-ir-intimation-investor-presentation-signed-q2-2026.pdf",
+          "note": "Company-published USD revenue, including seasonal revenue; October 22, 2026 presentation page 13, rounded to USD 0.1 million",
+          "valueUSD": 222100000.0,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 207800000.0,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://sagility.com/wp-content/uploads/2026/10/sagility-ir-intimation-investor-presentation-signed-q2-2026.pdf",
+          "note": "Company-published USD revenue, including seasonal revenue; October 22, 2026 presentation page 13, rounded to USD 0.1 million",
+          "valueUSD": 207800000.0,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 212600000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://sagility.com/wp-content/uploads/2026/10/sagility-ir-intimation-investor-presentation-signed-q2-2026.pdf",
+          "note": "Company-published USD revenue, including seasonal revenue; October 22, 2026 presentation page 13, rounded to USD 0.1 million",
+          "valueUSD": 212600000,
+          "usdMethod": "Company-reported USD"
+        }
+      ]
+    },
+    {
+      "ticker": "TASK",
+      "name": "TaskUs",
+      "investorURL": "https://ir.taskus.com/financial-information/quarterly-results",
+      "scope": "Consolidated company revenue",
+      "reports": [
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 298713000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.taskus.com/news-releases/news-release-details/taskus-announces-fiscal-third-quarter-2025-results/",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 298713000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 312956000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.taskus.com/news-releases/news-release-details/taskus-announces-fiscal-fourth-quarter-and-full-year-2025",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 312956000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 306266000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.taskus.com/news-releases/news-release-details/taskus-announces-fiscal-second-quarter-2026-results",
+          "note": "Derived: six-month revenue 615,121,000 less Q2 revenue 308,855,000 USD",
+          "valueUSD": 306266000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 308855000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://ir.taskus.com/news-releases/news-release-details/taskus-announces-fiscal-second-quarter-2026-results",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 308855000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 314747000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://taskus.gcs-web.com/news-releases/news-release-details/taskus-announces-fiscal-third-quarter-2026-results",
+          "note": "Consolidated service revenue for the three months ended September 30, 2026, released November 4, 2026. Table in USD thousands: 314,747.",
+          "valueUSD": 314747000,
+          "usdMethod": "Company-reported USD"
+        }
+      ]
+    },
+    {
+      "ticker": "TEP",
+      "name": "Teleperformance",
+      "investorURL": "https://www.tp.com/en-us/investors/publications-and-events/financial-publications/",
+      "scope": "Consolidated company revenue",
+      "reports": [
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 2507000000,
+          "reportedCurrency": "EUR",
+          "sourceURL": "https://www.tp.com/media/pxmfy4dy/tp-press-release-2025-annual-results.pdf",
+          "note": "Quarterly revenue appendix, 2025 annual release",
+          "valueUSD": 2928392513.64,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "EUR",
+            "quote": "USD",
+            "start": "2025-07-01",
+            "end": "2025-09-30",
+            "observations": 66,
+            "averageRate": 1.1680863636363636,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 2587000000,
+          "reportedCurrency": "EUR",
+          "sourceURL": "https://www.tp.com/media/pxmfy4dy/tp-press-release-2025-annual-results.pdf",
+          "note": "Quarterly revenue appendix, 2025 annual release",
+          "valueUSD": 3009760264.06,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "EUR",
+            "quote": "USD",
+            "start": "2025-10-01",
+            "end": "2025-12-31",
+            "observations": 64,
+            "averageRate": 1.1634171875000001,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 2433000000,
+          "reportedCurrency": "EUR",
+          "sourceURL": "https://www.tp.com/media/1yxhdsni/tp-press-release-h1-2026-results.pdf",
+          "note": "Derived: H1 revenue 4,883 million less Q2 2,450 million EUR",
+          "valueUSD": 2847247214.29,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "EUR",
+            "quote": "USD",
+            "start": "2026-01-01",
+            "end": "2026-03-31",
+            "observations": 63,
+            "averageRate": 1.1702619047619047,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 2450000000,
+          "reportedCurrency": "EUR",
+          "sourceURL": "https://www.tp.com/media/1yxhdsni/tp-press-release-h1-2026-results.pdf",
+          "note": "H1 2026 release page 2",
+          "valueUSD": 2849065483.87,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "EUR",
+            "quote": "USD",
+            "start": "2026-04-01",
+            "end": "2026-06-30",
+            "observations": 62,
+            "averageRate": 1.1628838709677418,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 2532000000,
+          "reportedCurrency": "EUR",
+          "sourceURL": "https://www.tp.com/media/kcdch3fb/tp-press-release-q3-2026-revenue-eng.pdf",
+          "note": "Q3 2026 consolidated revenue, released November 5, 2026: EUR 2,532 million (page 1 and appendix page 6). Actual quarterly revenue, not nine-month revenue or guidance.",
+          "valueUSD": 2913135054.55,
+          "usdMethod": "Converted from EUR using the arithmetic mean of daily ECB USD/EUR cross-rates for the reported quarter. USD growth includes exchange-rate movements.",
+          "fx": {
+            "base": "EUR",
+            "start": "2026-07-01",
+            "end": "2026-09-30",
+            "observations": 66,
+            "averageRate": 1.1505272727272726
+          }
+        }
+      ]
+    },
+    {
+      "ticker": "TTEC",
+      "name": "TTEC",
+      "investorURL": "https://investors.ttec.com/",
+      "scope": "Consolidated company revenue",
+      "reports": [
+        {
+          "periodEnd": "2025-06-30",
+          "reportedValue": 513571000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-second-quarter-2026-financial-results",
+          "note": "Prior-year comparative in Q2 2026 report",
+          "valueUSD": 513571000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 519143000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-third-quarter-2025/",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 519143000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 569957000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-fourth-quarter-and-full-year-2025-financial",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 569957000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 496175000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-second-quarter-2026-financial-results",
+          "note": "Derived: six-month revenue 951,670,000 less Q2 revenue 455,495,000 USD",
+          "valueUSD": 496175000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 455495000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-second-quarter-2026-financial-results",
+          "note": "Reported quarterly revenue",
+          "valueUSD": 455495000,
+          "usdMethod": "Company-reported USD"
+        }
+      ]
+    },
+    {
+      "ticker": "TU",
+      "name": "TELUS Corporation",
+      "investorURL": "https://www.telus.com/en/about/investor-relations/investor-events",
+      "scope": "TELUS Corporation consolidated operating revenue; includes telecom, health and digital businesses",
+      "reports": [
+        {
+          "periodEnd": "2025-06-30",
+          "reportedValue": 5031000000.0,
+          "reportedCurrency": "CAD",
+          "sourceURL": "https://assets.ctfassets.net/fltupc9ltp8m/7kOBVQImM5UMTx4x7Fbkmf/78323bc854c6284effc00625d7e37457/TELUS_Q2_2026_IR_Supplemental.pdf",
+          "note": "Operating revenue excluding other income; Q2 2026 investor supplemental page 4",
+          "valueUSD": 3633026637.54,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "CAD",
+            "quote": "USD",
+            "start": "2025-04-01",
+            "end": "2025-06-30",
+            "observations": 62,
+            "averageRate": 0.7221281330822368,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2025-09-30",
+          "reportedValue": 5067000000.0,
+          "reportedCurrency": "CAD",
+          "sourceURL": "https://assets.ctfassets.net/fltupc9ltp8m/7kOBVQImM5UMTx4x7Fbkmf/78323bc854c6284effc00625d7e37457/TELUS_Q2_2026_IR_Supplemental.pdf",
+          "note": "Operating revenue excluding other income; Q2 2026 investor supplemental page 4",
+          "valueUSD": 3679207241.83,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "CAD",
+            "quote": "USD",
+            "start": "2025-07-01",
+            "end": "2025-09-30",
+            "observations": 66,
+            "averageRate": 0.7261115535491731,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2025-12-31",
+          "reportedValue": 5230000000.0,
+          "reportedCurrency": "CAD",
+          "sourceURL": "https://assets.ctfassets.net/fltupc9ltp8m/7kOBVQImM5UMTx4x7Fbkmf/78323bc854c6284effc00625d7e37457/TELUS_Q2_2026_IR_Supplemental.pdf",
+          "note": "Operating revenue excluding other income; Q2 2026 investor supplemental page 4",
+          "valueUSD": 3748318494.92,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "CAD",
+            "quote": "USD",
+            "start": "2025-10-01",
+            "end": "2025-12-31",
+            "observations": 64,
+            "averageRate": 0.7166956969255686,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2026-03-31",
+          "reportedValue": 4989000000.0,
+          "reportedCurrency": "CAD",
+          "sourceURL": "https://assets.ctfassets.net/fltupc9ltp8m/7kOBVQImM5UMTx4x7Fbkmf/78323bc854c6284effc00625d7e37457/TELUS_Q2_2026_IR_Supplemental.pdf",
+          "note": "Operating revenue excluding other income; Q2 2026 investor supplemental page 4",
+          "valueUSD": 3637901319.78,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "CAD",
+            "quote": "USD",
+            "start": "2026-01-01",
+            "end": "2026-03-31",
+            "observations": 63,
+            "averageRate": 0.7291844697892854,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2026-06-30",
+          "reportedValue": 4920000000.0,
+          "reportedCurrency": "CAD",
+          "sourceURL": "https://assets.ctfassets.net/fltupc9ltp8m/7kOBVQImM5UMTx4x7Fbkmf/78323bc854c6284effc00625d7e37457/TELUS_Q2_2026_IR_Supplemental.pdf",
+          "note": "Operating revenue excluding other income; Q2 2026 investor supplemental page 4",
+          "valueUSD": 3554166191.44,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "CAD",
+            "quote": "USD",
+            "start": "2026-04-01",
+            "end": "2026-06-30",
+            "observations": 62,
+            "averageRate": 0.7223915023245356,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 1,
+  "revision": 2026110501,
+  "publishedAt": "2026-11-05T21:33:27Z"
+}
