@@ -1,5 +1,5 @@
 {
-  "edition": "2026-11-05",
+  "edition": "2026-11-06",
   "companies": [
     {
       "ticker": "ACN",
@@ -61,15 +61,6 @@
       "scope": "Continuing operations, excluding discontinued Transportation businesses on a consistent basis",
       "reports": [
         {
-          "periodEnd": "2025-06-30",
-          "reportedValue": 603000000.0,
-          "reportedCurrency": "USD",
-          "sourceURL": "https://investor.conduent.com/static-files/942d5f70-0e68-4464-8159-7ba62c4c59e3",
-          "note": "GAAP revenue, Q2 2026 presentation page 18; all comparative periods restated for discontinued Transportation operations",
-          "valueUSD": 603000000.0,
-          "usdMethod": "Company-reported USD"
-        },
-        {
           "periodEnd": "2025-09-30",
           "reportedValue": 605000000.0,
           "reportedCurrency": "USD",
@@ -103,6 +94,15 @@
           "sourceURL": "https://investor.conduent.com/static-files/942d5f70-0e68-4464-8159-7ba62c4c59e3",
           "note": "GAAP revenue, Q2 2026 presentation page 18; all comparative periods restated for discontinued Transportation operations",
           "valueUSD": 531000000.0,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 534000000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://conduent.gcs-web.com/news-releases/news-release-details/conduent-reports-third-quarter-2026-results-reaffirms-2026",
+          "note": "Condensed consolidated income statement: GAAP revenue for the three months ended September 30, 2026, USD millions; continuing operations excluding discontinued Transportation businesses; released November 5, 2026",
+          "valueUSD": 534000000,
           "usdMethod": "Company-reported USD"
         }
       ]
@@ -379,15 +379,6 @@
       "scope": "Consolidated company revenue",
       "reports": [
         {
-          "periodEnd": "2025-06-30",
-          "reportedValue": 1254418000,
-          "reportedCurrency": "USD",
-          "sourceURL": "https://media.genpact.com/2026-08-06-Genpact-Reports-Second-Quarter-2026-Results",
-          "note": "Prior-year comparative in Q2 2026 report",
-          "valueUSD": 1254418000,
-          "usdMethod": "Company-reported USD"
-        },
-        {
           "periodEnd": "2025-09-30",
           "reportedValue": 1291257000,
           "reportedCurrency": "USD",
@@ -421,6 +412,15 @@
           "sourceURL": "https://media.genpact.com/2026-08-06-Genpact-Reports-Second-Quarter-2026-Results",
           "note": "Reported quarterly revenue",
           "valueUSD": 1343438000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 1385400000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://media.genpact.com/2026-11-05-Genpact-Reports-Third-Quarter-2026-Results",
+          "note": "Consolidated statements of income: net revenues for the three months ended September 30, 2026, USD thousands; released November 5, 2026",
+          "valueUSD": 1385400000,
           "usdMethod": "Company-reported USD"
         }
       ]
@@ -530,15 +530,6 @@
       "scope": "Consolidated company revenue",
       "reports": [
         {
-          "periodEnd": "2025-06-30",
-          "reportedValue": 147138000,
-          "reportedCurrency": "USD",
-          "sourceURL": "https://investors.ibex.co/news-releases/news-release-details/ibex-reports-record-fiscal-year-2026-financial-results",
-          "note": "Prior-year comparative in fiscal Q4 2026 report",
-          "valueUSD": 147138000,
-          "usdMethod": "Company-reported USD"
-        },
-        {
           "periodEnd": "2025-09-30",
           "reportedValue": 151179000,
           "reportedCurrency": "USD",
@@ -572,6 +563,15 @@
           "sourceURL": "https://investors.ibex.co/news-releases/news-release-details/ibex-reports-record-fiscal-year-2026-financial-results",
           "note": "Reported quarterly revenue",
           "valueUSD": 164269000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 175225000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ibex.co/news-releases/news-release-details/ibex-reports-record-start-fiscal-2027-raises-full-year-guidance",
+          "note": "Consolidated statements of comprehensive income: revenue for the three months ended September 30, 2026 (fiscal Q1 FY2027), USD thousands; released November 5, 2026",
+          "valueUSD": 175225000,
           "usdMethod": "Company-reported USD"
         }
       ]
@@ -934,24 +934,6 @@
       "scope": "TELUS Corporation consolidated operating revenue; includes telecom, health and digital businesses",
       "reports": [
         {
-          "periodEnd": "2025-06-30",
-          "reportedValue": 5031000000.0,
-          "reportedCurrency": "CAD",
-          "sourceURL": "https://assets.ctfassets.net/fltupc9ltp8m/7kOBVQImM5UMTx4x7Fbkmf/78323bc854c6284effc00625d7e37457/TELUS_Q2_2026_IR_Supplemental.pdf",
-          "note": "Operating revenue excluding other income; Q2 2026 investor supplemental page 4",
-          "valueUSD": 3633026637.54,
-          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
-          "fx": {
-            "base": "CAD",
-            "quote": "USD",
-            "start": "2025-04-01",
-            "end": "2025-06-30",
-            "observations": 62,
-            "averageRate": 0.7221281330822368,
-            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
-          }
-        },
-        {
           "periodEnd": "2025-09-30",
           "reportedValue": 5067000000.0,
           "reportedCurrency": "CAD",
@@ -1022,11 +1004,29 @@
             "averageRate": 0.7223915023245356,
             "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
           }
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 5020000000,
+          "reportedCurrency": "CAD",
+          "sourceURL": "https://assets.ctfassets.net/fltupc9ltp8m/6rAkcRPx1JlLxBxZYO1rxD/b74aa2def8b3544d675f40178bce3d2a/TELUS_Q3_2026_IR_Supplemental.pdf",
+          "note": "Operating revenue excluding other income; Q3 2026 investor supplemental page 4, Segmented Data - Historical Trend, CAD millions; excludes CAD 6 million other income",
+          "valueUSD": 3586322662.47,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "CAD",
+            "quote": "USD",
+            "start": "2026-07-01",
+            "end": "2026-09-30",
+            "observations": 66,
+            "averageRate": 0.7144069048735575,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
         }
       ]
     }
   ],
   "schemaVersion": 1,
-  "revision": 2026110501,
-  "publishedAt": "2026-11-05T21:33:27Z"
+  "revision": 2026110601,
+  "publishedAt": "2026-11-06T14:52:12Z"
 }
