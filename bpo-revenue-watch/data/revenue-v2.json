@@ -50,7 +50,22 @@
           "sourceURL": "https://investor.accenture.com/~/media/Files/A/accenture-v4/investors/earnings-reports/2026/accentures-fourth-quarter-fiscal-2026-earnings-release.pdf",
           "note": "Consolidated income statement page 10",
           "valueUSD": 18679110000,
-          "usdMethod": "Company-reported USD"
+          "usdMethod": "Company-reported USD",
+          "performance": {
+            "summary": "Revenue reached $18.68 billion in fiscal Q4, up 6% in US dollars and 7% in local currency from the prior year.",
+            "drivers": [
+              "Growth spanned every geographic market and industry group. Communications, Media & Technology grew 10% and Health & Public Service grew 8% in US dollars.",
+              "Consulting grew 6% and Managed Services grew 7% in US dollars. Currency movements reduced reported growth by about 0.8 percentage points."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://investor.accenture.com/~/media/Files/A/accenture-v4/investors/earnings-reports/2026/accentures-fourth-quarter-fiscal-2026-earnings-release.pdf",
+                "section": "Q4 FY2026 earnings release, pages 1–2"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
+          }
         }
       ]
     },
@@ -103,7 +118,27 @@
           "sourceURL": "https://conduent.gcs-web.com/news-releases/news-release-details/conduent-reports-third-quarter-2026-results-reaffirms-2026",
           "note": "Condensed consolidated income statement: GAAP revenue for the three months ended September 30, 2026, USD millions; continuing operations excluding discontinued Transportation businesses; released November 5, 2026",
           "valueUSD": 534000000,
-          "usdMethod": "Company-reported USD"
+          "usdMethod": "Company-reported USD",
+          "performance": {
+            "summary": "Continuing-operations revenue fell 11.7% to $534 million in Q3. The filing attributes the decline to lost contracts and lower client volumes, partly offset by new business ramping up.",
+            "drivers": [
+              "Commercial lost its largest customer and did not repeat a prior-year multi-year licensing agreement. Government also faced lost contracts and lower volumes.",
+              "New wins included healthcare payment-integrity work with Gravie and an AI-enabled automotive audit engagement. These are business wins, not a quantified explanation of revenue already recognized."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://conduent.gcs-web.com/news-releases/news-release-details/conduent-reports-third-quarter-2026-results-reaffirms-2026",
+                "section": "Q3 results: financial results and contract wins; Form 10-Q: PDF pages 30 and 34"
+              },
+              {
+                "title": "Q3 2026 Form 10-Q",
+                "url": "https://investor.conduent.com/static-files/9b2cd605-4562-4385-b006-eddf1d70218b",
+                "section": "PDF pages 30 and 34: revenue drivers"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
+          }
         }
       ]
     },
@@ -156,7 +191,22 @@
           "sourceURL": "https://ir.concentrix.com/news/news-details/2026/Concentrix-Reports-Third-Quarter-2026-Results/default.aspx",
           "note": "Reported quarterly revenue",
           "valueUSD": 2453679000,
-          "usdMethod": "Company-reported USD"
+          "usdMethod": "Company-reported USD",
+          "performance": {
+            "summary": "Fiscal Q3 revenue declined 1.2% to $2.45 billion; the decline was 0.5% at constant currency, indicating an additional currency headwind.",
+            "drivers": [
+              "Management described a shift away from traditional work toward newer services. It said half of revenue came from business won and deployed during the last three years; that is not a measure of AI-only revenue.",
+              "The release does not quantify individual client losses or sector contributions to the revenue decline. The large goodwill impairment affected earnings, not revenue."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://ir.concentrix.com/news/news-details/2026/Concentrix-Reports-Third-Quarter-2026-Results/default.aspx",
+                "section": "Fiscal Q3 2026 release: highlights and CEO commentary"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
+          }
         }
       ]
     },
@@ -209,7 +259,22 @@
           "sourceURL": "https://news.cognizant.com/2026-10-29-Cognizant-Reports-Third-Quarter-2026-Results",
           "note": "Q3 2026 consolidated revenue; October 29 release, statement in USD millions",
           "valueUSD": 5664000000,
-          "usdMethod": "Company-reported USD"
+          "usdMethod": "Company-reported USD",
+          "performance": {
+            "summary": "Q3 revenue rose 4.6% to $5.66 billion, or 4.8% at constant currency. Financial Services was the strongest major segment, growing 12.0%.",
+            "drivers": [
+              "Communications, Media & Technology grew 10.5%, while Health Sciences fell 1.1% and Products & Resources fell 0.9%.",
+              "Acquisitions contributed about 2.1 percentage points to overall growth. Third-party product sales contributed about 1.9 points; these disclosures should not be treated as independent, additive organic-growth measures."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://news.cognizant.com/2026-10-29-Cognizant-Reports-Third-Quarter-2026-Results",
+                "section": "Q3 release: revenue by segment and geography, notes (b) and (c)"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
+          }
         }
       ]
     },
@@ -262,7 +327,27 @@
           "sourceURL": "https://eclerx.com/wp-content/uploads/2026/10/Press-Release.pdf",
           "note": "Q2 FY27 operating revenue, excluding other income; October 28 release, INR 1,188.7 crore and USD 127.7 million, both rounded by company",
           "valueUSD": 127700000,
-          "usdMethod": "Company-published USD equivalent"
+          "usdMethod": "Company-published USD equivalent",
+          "performance": {
+            "summary": "Operating revenue was $127.7 million, up 10.6% year over year and 1.5% sequentially. Constant-currency growth was 12.9% year over year.",
+            "drivers": [
+              "Management cited Analytics and Automation growth of 27% year over year and 5% sequentially, with agentic-AI and transformation demand supporting Hi-tech.",
+              "Offsets included lower compliance-refresh volumes at existing US financial-services clients and weak luxury demand in China and Europe. Italy’s August holiday period also creates seasonal softness."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://eclerx.com/wp-content/uploads/2026/10/Press-Release.pdf",
+                "section": "Q2 FY2027 release, page 1; earnings call, pages 2–4"
+              },
+              {
+                "title": "Q2 FY2027 earnings call",
+                "url": "https://eclerx.com/wp-content/uploads/2026/11/Transcript-Q2FY27-Earnings-Call-eClerx.pdf",
+                "section": "Pages 2–4: management commentary"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
+          }
         }
       ]
     },
@@ -315,7 +400,22 @@
           "sourceURL": "https://ir.exlservice.com/news-releases/news-release-details/exl-reports-2026-third-quarter-results",
           "note": "Q3 2026 consolidated net revenue; October 27 release, statement in USD thousands",
           "valueUSD": 633959000,
-          "usdMethod": "Company-reported USD"
+          "usdMethod": "Company-reported USD",
+          "performance": {
+            "summary": "Q3 revenue increased 19.7% to $634.0 million, up 6.6% from Q2. Management reported more than 15% organic growth in every segment.",
+            "drivers": [
+              "Data- and AI-led work, nearly two-thirds of the business, grew 36% as reported and 31% organically. Management linked performance to combining industry expertise with data and AI capabilities.",
+              "EXL won 14 new clients and completed the iMerit acquisition, adding model-training capabilities. The release does not quantify how much those new wins contributed to this quarter."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://ir.exlservice.com/news-releases/news-release-details/exl-reports-2026-third-quarter-results",
+                "section": "Q3 release: CEO commentary, financial highlights and business highlights"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
+          }
         }
       ]
     },
@@ -368,7 +468,22 @@
           "sourceURL": "https://www.firstsource.com/newsroom/press-releases/q2fy27results",
           "note": "Q2 FY27 consolidated quarterly revenue; October 29 release, INR 28,256 million and company-published USD 296 million, rounded to USD 1 million; excludes half-year totals",
           "valueUSD": 296000000,
-          "usdMethod": "Company-published USD equivalent"
+          "usdMethod": "Company-published USD equivalent",
+          "performance": {
+            "summary": "Fiscal Q2 revenue was $296 million. Revenue grew 22.2% year over year in rupees; this differs from the app’s US-dollar comparison.",
+            "drivers": [
+              "Firstsource reported expansion in existing telecom and healthcare relationships, including a UK mobile virtual network operator and a major North American health insurer.",
+              "It signed four large deals and added 17 clients: nine in banking/financial services, four in healthcare, two in communications/media/technology and two in diversified industries. Management highlighted AI-enabled, outcome-based work; new wins are not the same as current-quarter revenue."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://www.firstsource.com/newsroom/press-releases/q2fy27results",
+                "section": "Q2 FY2027 release: financial and business highlights"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
+          }
         }
       ]
     },
@@ -452,6 +567,21 @@
             "observations": 62,
             "averageRate": 0.010563446909497313,
             "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          },
+          "performance": {
+            "summary": "Fusion reported INR 4.90 billion of operating revenue for the quarter ended June 2026, about $51.8 million using the app’s currency conversion.",
+            "drivers": [
+              "The reviewed restated IPO financial statements provide this quarter and separate annual histories, but no matching prior-year quarter for a reliable quarterly growth comparison.",
+              "The statements do not provide a quantified explanation of this quarter’s revenue change by client, industry or AI adoption. No cause has been inferred from the chart."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://www.fusioncx.com/wp-content/uploads/company-financial/rfs/Fusion-CX-RFS-Jun2026.pdf",
+                "section": "Restated consolidated financial statements: PDF page 9 and revenue/accounting notes"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
           }
         }
       ]
@@ -505,7 +635,22 @@
           "sourceURL": "https://media.genpact.com/2026-11-05-Genpact-Reports-Third-Quarter-2026-Results",
           "note": "Consolidated statements of income: net revenues for the three months ended September 30, 2026, USD thousands; released November 5, 2026",
           "valueUSD": 1385400000,
-          "usdMethod": "Company-reported USD"
+          "usdMethod": "Company-reported USD",
+          "performance": {
+            "summary": "Q3 revenue increased 7.3% to $1.385 billion, or 7.5% at constant currency. Growth was concentrated in Advanced Technology Solutions.",
+            "drivers": [
+              "Advanced Technology Solutions grew 30.3% to $405 million, reaching 29% of revenue. Core Business Services, the other 71%, was flat year over year.",
+              "Management linked the faster-growing business to its shift toward Agentic Operations. The release does not give a client-by-client or industry-by-industry bridge to revenue growth."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://media.genpact.com/2026-11-05-Genpact-Reports-Third-Quarter-2026-Results",
+                "section": "Q3 release: management commentary and financial highlights"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
+          }
         }
       ]
     },
@@ -603,6 +748,21 @@
             "observations": 62,
             "averageRate": 0.010563446909497313,
             "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          },
+          "performance": {
+            "summary": "Fiscal Q1 operating revenue was INR 10.50 billion. Management said performance was affected by the planned phase-out of a large client engagement.",
+            "drivers": [
+              "HGS also reported related one-time costs; those affect profitability and should not be confused with revenue loss. The client and its industry were not identified in the release.",
+              "It added 19 digital-CX/technology clients and eight HRO/payroll clients, and expanded AI-led engagements with existing customers. The digital-media business also won new and repeat enterprise-connectivity work; contributions to this quarter were not quantified."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://hgs.com/reports/2026/08/HGS-Q1-FY2027-Earnings-Press-Release.pdf",
+                "section": "Q1 FY2027 earnings release, pages 2–3"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
           }
         }
       ]
@@ -656,7 +816,22 @@
           "sourceURL": "https://investors.ibex.co/news-releases/news-release-details/ibex-reports-record-start-fiscal-2027-raises-full-year-guidance",
           "note": "Consolidated statements of comprehensive income: revenue for the three months ended September 30, 2026 (fiscal Q1 FY2027), USD thousands; released November 5, 2026",
           "valueUSD": 175225000,
-          "usdMethod": "Company-reported USD"
+          "usdMethod": "Company-reported USD",
+          "performance": {
+            "summary": "Fiscal Q1 revenue rose 15.9% to a record $175.2 million. Management described the increase as organic, with growth across several industries.",
+            "drivers": [
+              "HealthTech grew 39.9%; Travel, Transportation & Logistics grew 16.4%; Technology grew 9.8%; and Retail & E-commerce grew 8.7%. Digital acquisition and AI-agent solutions also contributed.",
+              "IBEX won four new clients, including two in FinTech. Management also cited expansion with existing clients; the release does not assign a revenue amount to each new win."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://investors.ibex.co/news-releases/news-release-details/ibex-reports-record-start-fiscal-2027-raises-full-year-guidance",
+                "section": "Fiscal Q1 FY2027 release: highlights, CEO commentary and Revenue"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
+          }
         }
       ]
     },
@@ -740,6 +915,21 @@
             "observations": 127,
             "averageRate": 0.011077516919144286,
             "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          },
+          "performance": {
+            "summary": "NSB reported INR 884.78 million of revenue for the six months ended March 2026. This includes BPO services and FMCG/staples trading, rather than BPO alone.",
+            "drivers": [
+              "The half-year figures are derived as the audited full year less the preceding half-year. They must not be compared with another company’s quarterly revenue.",
+              "The reviewed results do not attribute the change to specific clients, industries, acquisitions or AI. A BPO-only growth explanation is unavailable from this filing."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://www.nsbbpo.com/documents/meetings/outcome-of-the-board-meeting-30-05-2026.pdf",
+                "section": "May 30, 2026 board filing: consolidated results, PDF page 28; notes 7–10, page 32"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
           }
         }
       ]
@@ -836,6 +1026,21 @@
             "end": "2026-09-30",
             "observations": 66,
             "averageRate": 0.010461687769445569
+          },
+          "performance": {
+            "summary": "Fiscal Q2 revenue grew 147% year over year and 10.5% sequentially to INR 174.96 crore. The annual comparison includes an expanded business following the Netcom acquisition.",
+            "drivers": [
+              "Management cited new clients and expansion within existing relationships, alongside improved contract economics on renewals.",
+              "New mandates include a four-year $10.8 million Costa Rica engagement, an INR 39.32 crore utility contract, and capital-markets/logistics work. These are contract values, not quarterly revenue. ResolX reached 14 deployments across seven enterprise clients, without a disclosed revenue contribution."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://www.1point1.com/media-center/1point1-q2-fy27-financial-results-revenue-growth",
+                "section": "Q2 FY2027 release: consolidated table, four growth drivers and multi-year contracts"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
           }
         }
       ]
@@ -889,7 +1094,22 @@
           "sourceURL": "https://sagility.com/wp-content/uploads/2026/10/sagility-ir-intimation-investor-presentation-signed-q2-2026.pdf",
           "note": "Company-published USD revenue, including seasonal revenue; October 22, 2026 presentation page 13, rounded to USD 0.1 million",
           "valueUSD": 212600000,
-          "usdMethod": "Company-reported USD"
+          "usdMethod": "Company-reported USD",
+          "performance": {
+            "summary": "Fiscal Q2 revenue was $212.6 million. Sagility reported 12.2% constant-currency growth year over year, including 11.9% organic growth.",
+            "drivers": [
+              "The company attributed organic growth to expanding work with national healthcare payers and mid-market customers.",
+              "It won $40.2 million of annual contract value from 31 existing clients and one new client, with cross-selling and transformation opportunities. AI deployments were highlighted, but their revenue contribution was not isolated. Open-enrollment seasonal revenue typically occurs in fiscal Q3 and Q4, not this quarter."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://sagility.com/wp-content/uploads/2026/10/sagility-ir-intimation-investor-presentation-signed-q2-2026.pdf",
+                "section": "Q2 FY2027 investor presentation: PDF pages 4–5 and 13"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
+          }
         }
       ]
     },
@@ -942,7 +1162,22 @@
           "sourceURL": "https://taskus.gcs-web.com/news-releases/news-release-details/taskus-announces-fiscal-third-quarter-2026-results",
           "note": "Consolidated service revenue for the three months ended September 30, 2026, released November 4, 2026. Table in USD thousands: 314,747.",
           "valueUSD": 314747000,
-          "usdMethod": "Company-reported USD"
+          "usdMethod": "Company-reported USD",
+          "performance": {
+            "summary": "Q3 service revenue rose 5.4% to a record $314.7 million. Management identified AI Services as a major source of momentum.",
+            "drivers": [
+              "AI Services grew 27.7% year over year, supporting autonomous vehicles, robotics and frontier AI models. Digital Customer Experience grew 7.1%.",
+              "Management reported nearly 20% growth excluding its largest client, versus 5.4% overall. The release does not identify that client or quantify its decline."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://taskus.gcs-web.com/news-releases/news-release-details/taskus-announces-fiscal-third-quarter-2026-results",
+                "section": "Q3 release: CEO commentary and financial/frontline highlights"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
+          }
         }
       ]
     },
@@ -1038,6 +1273,21 @@
             "end": "2026-09-30",
             "observations": 66,
             "averageRate": 1.1505272727272726
+          },
+          "performance": {
+            "summary": "Q3 revenue rose 1.0% as reported to EUR 2.532 billion, but fell 1.2% like for like. A EUR 62 million currency benefit supported reported growth.",
+            "drivers": [
+              "TP attributed pressure to declining Trust & Safety work and faster offshore migration. In the Americas, it explicitly linked Trust & Safety declines to automation and offshore delivery.",
+              "Growth in AI-powered, back-office and outcome-based services provided an offset. Banking/financial services, utilities and technology supported the Americas; banking, retail/e-commerce and healthcare were strong in Europe/MEA/Asia-Pacific."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://www.tp.com/media/kcdch3fb/tp-press-release-q3-2026-revenue-eng.pdf",
+                "section": "Q3 2026 revenue release, pages 1–3"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
           }
         }
       ]
@@ -1091,7 +1341,22 @@
           "sourceURL": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-second-quarter-2026-financial-results",
           "note": "Reported quarterly revenue",
           "valueUSD": 455495000,
-          "usdMethod": "Company-reported USD"
+          "usdMethod": "Company-reported USD",
+          "performance": {
+            "summary": "Q2 revenue declined 11.3% to $455.5 million. Engage revenue fell 12.1% and Digital fell 8.5%; currency reduced group revenue by only $0.3 million.",
+            "drivers": [
+              "Management attributed the shortfall against its plan to underperformance at a small number of Engage clients and delays in closing new business, prompting a lower Engage outlook.",
+              "TTEC discussed optimizing or transitioning low-margin programs and deploying frontline AI. It also cited enterprise wins in automotive, healthcare, retail and travel, without assigning those wins a current-quarter revenue contribution."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-second-quarter-2026-financial-results",
+                "section": "Q2 2026 release: CEO commentary, segment reporting and business outlook"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
+          }
         }
       ]
     },
@@ -1189,12 +1454,127 @@
             "observations": 66,
             "averageRate": 0.7144069048735575,
             "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          },
+          "performance": {
+            "summary": "TELUS Corporation operating revenue, excluding other income, was CAD 5.020 billion versus CAD 5.067 billion a year earlier. This is the whole group, not TELUS Digital alone.",
+            "drivers": [
+              "TELUS attributed lower Digital customer-contract revenue to clients reducing work in Trust & Safety and AI/data services. Core telecom mobile-network and fixed-data growth partly offset that weakness.",
+              "The company added 84,000 net mobile-phone customers and reported 1% mobile-network revenue growth. Its outlook also flagged faster-than-expected automation of legacy work for some hyperscale clients; that outlook is distinct from realized quarterly revenue."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://assets.ctfassets.net/fltupc9ltp8m/6rAkcRPx1JlLxBxZYO1rxD/b74aa2def8b3544d675f40178bce3d2a/TELUS_Q3_2026_IR_Supplemental.pdf",
+                "section": "Q3 news release: pages 1 and 6–8; investor supplemental: page 3"
+              },
+              {
+                "title": "Q3 2026 news release",
+                "url": "https://assets.ctfassets.net/fltupc9ltp8m/3MhP3PESs8GQK1COOospuL/737f51bb43706054ef6984ed8bdfb622/TELUS_Q3_2026_News_Release__EN.pdf",
+                "section": "Pages 1 and 6–8: operating highlights and outlook"
+              }
+            ],
+            "reviewedOn": "2026-11-09"
           }
         }
       ]
     }
   ],
   "schemaVersion": 2,
-  "revision": 2026110901,
-  "publishedAt": "2026-11-09T14:46:14Z"
+  "revision": 2026110902,
+  "publishedAt": "2026-11-09T16:49:47Z",
+  "marketSummaries": [
+    {
+      "id": "midsize",
+      "performance": {
+        "summary": "Healthcare expansion and demand for data and AI services recur across the latest disclosures from these five companies. Their combined revenue trend has been consistently positive in the periods reviewed.",
+        "drivers": [
+          "Healthcare is a common growth source: Sagility cited expansion with national payers and mid-market customers; IBEX reported HealthTech growth of 39.9%; Firstsource expanded work with a major North American insurer.",
+          "AI contributes in different ways: EXL reported 31% organic growth in data- and AI-led work, while TaskUs AI Services grew 27.7%. Those measures describe different service mixes and are not directly comparable.",
+          "Growth is broader than AI alone. IBEX reported 16.4% growth in Travel, Transportation & Logistics; Firstsource expanded a telecom relationship. TaskUs grew nearly 20% excluding its largest client, versus 5.4% overall, showing that client concentration still matters."
+        ],
+        "sources": [
+          {
+            "title": "Sagility · Company report",
+            "url": "https://sagility.com/wp-content/uploads/2026/10/sagility-ir-intimation-investor-presentation-signed-q2-2026.pdf",
+            "section": "3 months ended 2026-09-30; Q2 FY2027 investor presentation: PDF pages 4–5 and 13"
+          },
+          {
+            "title": "IBEX · Company report",
+            "url": "https://investors.ibex.co/news-releases/news-release-details/ibex-reports-record-start-fiscal-2027-raises-full-year-guidance",
+            "section": "3 months ended 2026-09-30; Fiscal Q1 FY2027 release: highlights, CEO commentary and Revenue"
+          },
+          {
+            "title": "Firstsource Solutions · Company report",
+            "url": "https://www.firstsource.com/newsroom/press-releases/q2fy27results",
+            "section": "3 months ended 2026-09-30; Q2 FY2027 release: financial and business highlights"
+          },
+          {
+            "title": "EXL Service · Company report",
+            "url": "https://ir.exlservice.com/news-releases/news-release-details/exl-reports-2026-third-quarter-results",
+            "section": "3 months ended 2026-09-30; Q3 release: CEO commentary, financial highlights and business highlights"
+          },
+          {
+            "title": "TaskUs · Company report",
+            "url": "https://taskus.gcs-web.com/news-releases/news-release-details/taskus-announces-fiscal-third-quarter-2026-results",
+            "section": "3 months ended 2026-09-30; Q3 release: CEO commentary and financial/frontline highlights"
+          }
+        ],
+        "reviewedOn": "2026-11-09"
+      }
+    },
+    {
+      "id": "all",
+      "performance": {
+        "summary": "The wider group shows a more uneven mix of growth and contraction. Its dollar totals are dominated by the largest businesses, including broad IT services and telecom operations; this is not a pure BPO market index.",
+        "drivers": [
+          "AI is both a growth opportunity and a pressure on legacy work. Genpact Advanced Technology Solutions grew 30.3%, while Core Business Services was flat. TP cited Trust & Safety automation and offshore migration as headwinds; TELUS reported client ramp-downs in Trust & Safety and AI/data services.",
+          "Client concentration and contract losses matter. Conduent attributed lower revenue to lost contracts and volumes, including its largest Commercial customer. HGS cited a planned large-client phase-out. These are company disclosures, not proof that they caused every movement in the combined chart.",
+          "Growth remains selective: Cognizant Financial Services grew 12.0% and Communications, Media & Technology grew 10.5%, while its other two major segments declined. The midsize cohort adds a more consistent positive contribution within this wider group."
+        ],
+        "sources": [
+          {
+            "title": "Genpact · Company report",
+            "url": "https://media.genpact.com/2026-11-05-Genpact-Reports-Third-Quarter-2026-Results",
+            "section": "3 months ended 2026-09-30; Q3 release: management commentary and financial highlights"
+          },
+          {
+            "title": "Teleperformance · Company report",
+            "url": "https://www.tp.com/media/kcdch3fb/tp-press-release-q3-2026-revenue-eng.pdf",
+            "section": "3 months ended 2026-09-30; Q3 2026 revenue release, pages 1–3"
+          },
+          {
+            "title": "TELUS Corporation · Company report",
+            "url": "https://assets.ctfassets.net/fltupc9ltp8m/6rAkcRPx1JlLxBxZYO1rxD/b74aa2def8b3544d675f40178bce3d2a/TELUS_Q3_2026_IR_Supplemental.pdf",
+            "section": "3 months ended 2026-09-30; Q3 news release: pages 1 and 6–8; investor supplemental: page 3"
+          },
+          {
+            "title": "TELUS Corporation · Q3 2026 news release",
+            "url": "https://assets.ctfassets.net/fltupc9ltp8m/3MhP3PESs8GQK1COOospuL/737f51bb43706054ef6984ed8bdfb622/TELUS_Q3_2026_News_Release__EN.pdf",
+            "section": "3 months ended 2026-09-30; Pages 1 and 6–8: operating highlights and outlook"
+          },
+          {
+            "title": "Conduent · Company report",
+            "url": "https://conduent.gcs-web.com/news-releases/news-release-details/conduent-reports-third-quarter-2026-results-reaffirms-2026",
+            "section": "3 months ended 2026-09-30; Q3 results: financial results and contract wins; Form 10-Q: PDF pages 30 and 34"
+          },
+          {
+            "title": "Conduent · Q3 2026 Form 10-Q",
+            "url": "https://investor.conduent.com/static-files/9b2cd605-4562-4385-b006-eddf1d70218b",
+            "section": "3 months ended 2026-09-30; PDF pages 30 and 34: revenue drivers"
+          },
+          {
+            "title": "Hinduja Global Solutions · Company report",
+            "url": "https://hgs.com/reports/2026/08/HGS-Q1-FY2027-Earnings-Press-Release.pdf",
+            "section": "3 months ended 2026-06-30; Q1 FY2027 earnings release, pages 2–3"
+          },
+          {
+            "title": "Cognizant · Company report",
+            "url": "https://news.cognizant.com/2026-10-29-Cognizant-Reports-Third-Quarter-2026-Results",
+            "section": "3 months ended 2026-09-30; Q3 release: revenue by segment and geography, notes (b) and (c)"
+          }
+        ],
+        "reviewedOn": "2026-11-09"
+      }
+    }
+  ]
 }
