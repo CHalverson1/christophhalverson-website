@@ -1,5 +1,5 @@
 {
-  "edition": "2026-11-06",
+  "edition": "2026-11-10",
   "companies": [
     {
       "ticker": "ACN",
@@ -881,15 +881,6 @@
       "scope": "Consolidated company revenue",
       "reports": [
         {
-          "periodEnd": "2025-06-30",
-          "reportedValue": 513571000,
-          "reportedCurrency": "USD",
-          "sourceURL": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-second-quarter-2026-financial-results",
-          "note": "Prior-year comparative in Q2 2026 report",
-          "valueUSD": 513571000,
-          "usdMethod": "Company-reported USD"
-        },
-        {
           "periodEnd": "2025-09-30",
           "reportedValue": 519143000,
           "reportedCurrency": "USD",
@@ -923,6 +914,15 @@
           "sourceURL": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-second-quarter-2026-financial-results",
           "note": "Reported quarterly revenue",
           "valueUSD": 455495000,
+          "usdMethod": "Company-reported USD"
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 492245000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-third-quarter-2026-financial-results-and",
+          "note": "Consolidated statements of operations: GAAP revenue for the three months ended September 30, 2026, USD thousands; released November 9, 2026",
+          "valueUSD": 492245000,
           "usdMethod": "Company-reported USD"
         }
       ]
@@ -1027,6 +1027,6 @@
     }
   ],
   "schemaVersion": 1,
-  "revision": 2026110601,
-  "publishedAt": "2026-11-06T14:52:12Z"
+  "revision": 2026111001,
+  "publishedAt": "2026-11-10T16:15:02Z"
 }

@@ -1,5 +1,5 @@
 {
-  "edition": "2026-11-09",
+  "edition": "2026-11-10",
   "companies": [
     {
       "ticker": "ACN",
@@ -1299,15 +1299,6 @@
       "scope": "Consolidated company revenue",
       "reports": [
         {
-          "periodEnd": "2025-06-30",
-          "reportedValue": 513571000,
-          "reportedCurrency": "USD",
-          "sourceURL": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-second-quarter-2026-financial-results",
-          "note": "Prior-year comparative in Q2 2026 report",
-          "valueUSD": 513571000,
-          "usdMethod": "Company-reported USD"
-        },
-        {
           "periodEnd": "2025-09-30",
           "reportedValue": 519143000,
           "reportedCurrency": "USD",
@@ -1356,6 +1347,41 @@
               }
             ],
             "reviewedOn": "2026-11-09"
+          }
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 492245000,
+          "reportedCurrency": "USD",
+          "sourceURL": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-third-quarter-2026-financial-results-and",
+          "note": "Consolidated statements of operations: GAAP revenue for the three months ended September 30, 2026, USD thousands; released November 9, 2026",
+          "valueUSD": 492245000,
+          "usdMethod": "Company-reported USD",
+          "performance": {
+            "summary": "Q3 revenue was $492.2 million, down 5.2% from Q3 2025 and up 8.1% from Q2 2026. The quarter-on-quarter change is calculated from reported figures.",
+            "drivers": [
+              "Engage revenue fell 6.8% year over year to $370.1 million, while Digital increased 0.2% to $122.1 million. Currency reduced consolidated revenue by $2.1 million.",
+              "Management highlighted improving or rationalizing underperforming client programs, changing delivery locations and cost efficiencies as reasons for better Engage margins; it did not quantify their individual revenue effects.",
+              "The CEO cited frontline AI tools and a healthy backlog. The release did not quantify an AI-related revenue contribution, so these developments should not be read as a measured explanation for the sequential increase."
+            ],
+            "sources": [
+              {
+                "title": "Company report",
+                "url": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-third-quarter-2026-financial-results-and",
+                "section": "Q3 2026 release: consolidated revenue, segment reporting and management commentary"
+              },
+              {
+                "title": "Company-issued release mirror",
+                "url": "https://www.globenewswire.com/news-release/2026/11/09/3399092/0/en/ttec-announces-third-quarter-2026-financial-results-and-reaffirms-outlook-for-full-year-2026.html",
+                "section": "TTEC-issued release on GlobeNewswire; consolidated statements of operations in USD thousands"
+              },
+              {
+                "title": "Q2 2026 company report",
+                "url": "https://investors.ttec.com/news-releases/news-release-details/ttec-announces-second-quarter-2026-financial-results",
+                "section": "Consolidated Q2 revenue of $455.495 million; basis for calculated quarter-on-quarter change"
+              }
+            ],
+            "reviewedOn": "2026-11-10"
           }
         }
       ]
@@ -1480,8 +1506,8 @@
     }
   ],
   "schemaVersion": 2,
-  "revision": 2026110902,
-  "publishedAt": "2026-11-09T16:49:47Z",
+  "revision": 2026111001,
+  "publishedAt": "2026-11-10T16:15:02Z",
   "marketSummaries": [
     {
       "id": "midsize",
