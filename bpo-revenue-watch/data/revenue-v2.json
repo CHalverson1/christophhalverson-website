@@ -1,5 +1,5 @@
 {
-  "edition": "2026-11-10",
+  "edition": "2026-11-13",
   "companies": [
     {
       "ticker": "ACN",
@@ -661,24 +661,6 @@
       "scope": "Consolidated continuing operating revenue, including BPM and Digital Media; excludes other income",
       "reports": [
         {
-          "periodEnd": "2025-06-30",
-          "reportedValue": 10562300000,
-          "reportedCurrency": "INR",
-          "sourceURL": "https://hgs.com/wp-content/uploads/2026/03/HGSLOUTCOMEBM-s.pdf",
-          "note": "Derived: nine-month revenue 3,222.69 less Q3 1,075.42 and Q2 1,091.04 crore INR; consolidated results page 10",
-          "valueUSD": 123404710.62,
-          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
-          "fx": {
-            "base": "INR",
-            "quote": "USD",
-            "start": "2025-04-01",
-            "end": "2025-06-30",
-            "observations": 62,
-            "averageRate": 0.011683507438982468,
-            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
-          }
-        },
-        {
           "periodEnd": "2025-09-30",
           "reportedValue": 10910400000,
           "reportedCurrency": "INR",
@@ -763,6 +745,46 @@
               }
             ],
             "reviewedOn": "2026-11-09"
+          }
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 10761500000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://hgs.com/reports/2026/11/Board-Meeting-Outcome-for-Q2-FY27.pdf",
+          "note": "Consolidated revenue from operations, including BPM and Digital Media: INR 1,076.15 crore for the three months ended September 30, 2026; excludes other income. Financial statement page 12; released November 12, 2026.",
+          "valueUSD": 112583452.93,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "INR",
+            "quote": "USD",
+            "start": "2026-07-01",
+            "end": "2026-09-30",
+            "observations": 66,
+            "averageRate": 0.010461687769445569,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          },
+          "performance": {
+            "summary": "Fiscal Q2 consolidated operating revenue was INR 10.76 billion, up 2.5% from June and down 1.4% from the prior-year quarter in rupees. These comparisons use the latest financial filing; the app charts show indicative USD conversions, which also reflect currency movements.",
+            "drivers": [
+              "Management attributed pressure on reported growth to previously discussed portfolio transitions. It did not quantify the individual revenue effects of those transitions.",
+              "The continuing business delivered high-single-digit growth on a comparable basis, supported by the ramp-up of engagements won in recent quarters. This company-defined measure differs from consolidated reported revenue growth.",
+              "HGS added 20 digital CX/technology clients and seven HRO/payroll clients. Management highlighted AI-enabled delivery and process redesign in financial services and consumer packaged goods, without quantifying an AI-related revenue contribution.",
+              "The broadband business reported 8% revenue growth and 6% subscriber growth for the first half, indicating higher revenue per subscriber. These are half-year figures, not quarter-only growth rates."
+            ],
+            "sources": [
+              {
+                "title": "Company financial statement",
+                "url": "https://hgs.com/reports/2026/11/Board-Meeting-Outcome-for-Q2-FY27.pdf",
+                "section": "Page 12: consolidated revenue from operations and exact June 2026 / September 2025 comparatives; INR crore"
+              },
+              {
+                "title": "Company earnings release",
+                "url": "https://hgs.com/reports/2026/11/HGS-Q2-H1-FY2027-Earnings-press-release_final.pdf",
+                "section": "Pages 1-3: portfolio transitions, continuing-business growth, management commentary, broadband performance and client wins"
+              }
+            ],
+            "reviewedOn": "2026-11-13"
           }
         }
       ]
@@ -1506,8 +1528,8 @@
     }
   ],
   "schemaVersion": 2,
-  "revision": 2026111001,
-  "publishedAt": "2026-11-10T16:15:02Z",
+  "revision": 2026111301,
+  "publishedAt": "2026-11-13T13:14:46Z",
   "marketSummaries": [
     {
       "id": "midsize",

@@ -1,5 +1,5 @@
 {
-  "edition": "2026-11-10",
+  "edition": "2026-11-13",
   "companies": [
     {
       "ticker": "ACN",
@@ -432,24 +432,6 @@
       "scope": "Consolidated continuing operating revenue, including BPM and Digital Media; excludes other income",
       "reports": [
         {
-          "periodEnd": "2025-06-30",
-          "reportedValue": 10562300000,
-          "reportedCurrency": "INR",
-          "sourceURL": "https://hgs.com/wp-content/uploads/2026/03/HGSLOUTCOMEBM-s.pdf",
-          "note": "Derived: nine-month revenue 3,222.69 less Q3 1,075.42 and Q2 1,091.04 crore INR; consolidated results page 10",
-          "valueUSD": 123404710.62,
-          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
-          "fx": {
-            "base": "INR",
-            "quote": "USD",
-            "start": "2025-04-01",
-            "end": "2025-06-30",
-            "observations": 62,
-            "averageRate": 0.011683507438982468,
-            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
-          }
-        },
-        {
           "periodEnd": "2025-09-30",
           "reportedValue": 10910400000,
           "reportedCurrency": "INR",
@@ -518,6 +500,24 @@
             "end": "2026-06-30",
             "observations": 62,
             "averageRate": 0.010563446909497313,
+            "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
+          }
+        },
+        {
+          "periodEnd": "2026-09-30",
+          "reportedValue": 10761500000,
+          "reportedCurrency": "INR",
+          "sourceURL": "https://hgs.com/reports/2026/11/Board-Meeting-Outcome-for-Q2-FY27.pdf",
+          "note": "Consolidated revenue from operations, including BPM and Digital Media: INR 1,076.15 crore for the three months ended September 30, 2026; excludes other income. Financial statement page 12; released November 12, 2026.",
+          "valueUSD": 112583452.93,
+          "usdMethod": "Quarter-average ECB reference rate; indicative USD conversion calculated by this app",
+          "fx": {
+            "base": "INR",
+            "quote": "USD",
+            "start": "2026-07-01",
+            "end": "2026-09-30",
+            "observations": 66,
+            "averageRate": 0.010461687769445569,
             "sourceURL": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip"
           }
         }
@@ -1027,6 +1027,6 @@
     }
   ],
   "schemaVersion": 1,
-  "revision": 2026111001,
-  "publishedAt": "2026-11-10T16:15:02Z"
+  "revision": 2026111301,
+  "publishedAt": "2026-11-13T13:14:46Z"
 }
